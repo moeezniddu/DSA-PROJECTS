@@ -1,0 +1,2 @@
+# DSA-PROJECTS
+Welcome to the DSA-PROJECTS repository! This repository is dedicated to hosting various Data Structures and Algorithms (DSA) projects implemented in C++. As the world of computer science and software engineering heavily relies on efficient data handling and algorithmic problem-solving, this collection of projects aims to showcase practical applications of different data structures and algorithms.
